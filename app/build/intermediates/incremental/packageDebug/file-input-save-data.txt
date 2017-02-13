@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Feb 13 19:12:33 IST 2017
+2.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\cameraview.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\android\\DevicePolicyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\device_admin_sample.xml
+0.set=DEX
